@@ -17,7 +17,7 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- The default background color -->
-    <color name="default_background">#ffffff</color>
+    <color name="default_background">@android:color/white</color>
     <!-- The default dissabled background color -->
     <color name="default_background_disabled">#f2f2f2</color>
 
@@ -52,27 +52,27 @@
     <color name="search_highlight">#ffffff00</color>
 
     <!-- Divider - Normal -->
-    <color name="divider_color">#00000000</color>
+    <color name="divider_color">#90909090</color>
     <!-- Divider - Light -->
-    <color name="divider_color_light">#00000000</color>
+    <color name="divider_color_light">#50505050</color>
 
     <!-- Execution console -->
     <color name="console_bg">#99000000</color>
     <color name="console_fg">#99FFFFFF</color>
 
-    <color name="material_palette_blue_accent">#ffE84E40</color>
-    <color name="material_palette_blue_accent_dark">#ffeeeeee</color>
-    <color name="material_palette_blue_primary">#ff222222</color>
-    <color name="material_palette_blue_primary_dark">#ff222222</color>
-    <color name="material_palette_blue_primary_light">#64B5F6</color>
-    <color name="actionbar_palette_blue_primary">#ff222222</color>
+    <color name="material_palette_blue_accent">#77E0E0E0</color>
+    <color name="material_palette_blue_accent_dark">#77BDBDBD</color>
+    <color name="material_palette_blue_primary"> #2196f3</color>
+    <color name="material_palette_blue_primary_dark"> #2196f3</color>
+    <color name="material_palette_blue_primary_light"> #2196f3</color>
+    <color name="actionbar_palette_blue_primary"> #2196f3</color>
 
 
     <!-- Disk usage blue -->
-    <color name="material_palette_blue_1">#ff222222</color>
-    <color name="material_palette_blue_2">#ff222222</color>
-    <color name="material_palette_blue_3">#ff222222</color>
-    <color name="material_palette_blue_4">#ff222222</color>
+    <color name="material_palette_blue_1">#64B5F6</color>
+    <color name="material_palette_blue_2">#2196F3</color>
+    <color name="material_palette_blue_3">#1976D2</color>
+    <color name="material_palette_blue_4">#0D47A1</color>
 
     <!-- Disk usage green -->
     <color name="material_palette_green_1">#DCE775</color>
