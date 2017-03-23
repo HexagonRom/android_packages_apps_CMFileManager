@@ -36,13 +36,13 @@
     <drawable name="theme_no_preview_drawable">@drawable/theme_no_preview</drawable>
 
     <!-- The drawable for the title bar -->
-    <drawable name="titlebar_drawable">@drawable/bg_material_titlebar</drawable>
+    <drawable name="titlebar_drawable">@color/material_palette_blue_primary</drawable>
 
     <!-- The background drawable -->
     <drawable name="background_drawable">@drawable/bg_material_background</drawable>
 
     <!-- The drawable for the status bar -->
-    <drawable name="statusbar_drawable">@drawable/bg_material_statusbar</drawable>
+    <drawable name="statusbar_drawable">@color/material_palette_blue_primary_dark</drawable>
 
     <!-- The drawable for the selection bar -->
     <drawable name="selectionbar_drawable">@drawable/bg_material_selectionbar</drawable>
